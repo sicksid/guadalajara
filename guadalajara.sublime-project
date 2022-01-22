@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"folder_exclude_patterns": [
+				"**/node_modules/*",
+				"**/storage/*",
+				"**/log/*",
+				"**/tmp/*"
+			]
+		}
+	],
+	"settings": {
+		"LSP": {
+			"ruby": {
+				"enabled": true,
+			},
+			"json": {
+				"enabled": true,
+			},
+		},
+		"lsp_format_on_save": true,
+		"lsp_code_actions_on_save": {
+			"source.fixAll": true,
+			"source.organizeImports": true,
+		},
+	}
+}

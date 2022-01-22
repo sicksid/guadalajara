@@ -1,0 +1,2322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"excl",
+				"\"folder_exclude_patterns\""
+			],
+			[
+				"play",
+				"playheadTime"
+			],
+			[
+				"isSame",
+				"isSameOrAfter"
+			],
+			[
+				"is",
+				"isBetween"
+			],
+			[
+				"find",
+				"findByGuid"
+			],
+			[
+				"Pixel",
+				"PixelOffset"
+			],
+			[
+				"ac",
+				"actionsBlacklist"
+			],
+			[
+				"toggle",
+				"toggleSidebarMenu"
+			],
+			[
+				"player",
+				"playerSyncPosition"
+			],
+			[
+				"sour",
+				"sourceGuids"
+			],
+			[
+				"useApp",
+				"useAppSelector"
+			],
+			[
+				"mockReturn",
+				"mockReturnValue"
+			],
+			[
+				"mockRetu",
+				"mockReturnValue"
+			],
+			[
+				"source",
+				"sourceGuids"
+			],
+			[
+				"useA",
+				"useAppSelector"
+			],
+			[
+				"cont",
+				"contexts"
+			],
+			[
+				"toBeIn",
+				"toBeInTheDocument"
+			],
+			[
+				"testing-l",
+				"@testing-library/react"
+			],
+			[
+				"cap",
+				"captureException"
+			],
+			[
+				"re",
+				"partialRefetch"
+			],
+			[
+				"CA",
+				"CACHE_FIRST"
+			],
+			[
+				"Fetch",
+				"FetchPolicy"
+			],
+			[
+				"fort",
+				"@fortawesome/free-solid-svg-icons"
+			],
+			[
+				"onCanPla",
+				"oncanplaythrough"
+			],
+			[
+				"useMount",
+				"useMount"
+			],
+			[
+				"CAN",
+				"CAN_MODULATE_VIDEO_PLAYER_WALLTIME"
+			],
+			[
+				"mock",
+				"mockReject"
+			],
+			[
+				"request",
+				"requestAnimationFrame"
+			],
+			[
+				"MANI",
+				"MANIFEST_LOADING"
+			],
+			[
+				"loaded",
+				"loadedmetadata"
+			],
+			[
+				"Vide",
+				"HTMLVideoElement"
+			],
+			[
+				"refre",
+				"refreshSessionGuid"
+			],
+			[
+				"lo",
+				"loadedMetadata"
+			],
+			[
+				"captur",
+				"captureException"
+			],
+			[
+				"E",
+				"ERROR"
+			],
+			[
+				"si",
+				"iconSize"
+			],
+			[
+				"Progress",
+				"HTMLProgressElement"
+			],
+			[
+				"defaul",
+				"defaultProps"
+			],
+			[
+				"isS",
+				"isSameOrAfter"
+			],
+			[
+				"testing",
+				"@testing-library/react-hooks"
+			],
+			[
+				"curr",
+				"currentTime"
+			],
+			[
+				"playhead",
+				"playheadTimeOffset"
+			],
+			[
+				"waitFor",
+				"waitForElementToBeRemoved"
+			],
+			[
+				"mockR",
+				"mockReset"
+			],
+			[
+				"toHave",
+				"toHaveLength"
+			],
+			[
+				"toContain",
+				"toContainEqual"
+			],
+			[
+				"mockresolved",
+				"mockResolvedValueOnce"
+			],
+			[
+				"stringify",
+				"stringifyUrl"
+			],
+			[
+				"VXG",
+				"VXG_BASE_URL"
+			],
+			[
+				"initial",
+				"initialEntries"
+			],
+			[
+				"testing-li",
+				"@testing-library/user-event"
+			],
+			[
+				"wait",
+				"waitForValueToChange"
+			],
+			[
+				"w",
+				"waitForValueToChange"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"has",
+				"hasAudioTrack"
+			],
+			[
+				"au",
+				"audioTracks"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"tim",
+				"timeZone"
+			],
+			[
+				"parse",
+				"parse"
+			],
+			[
+				"startL",
+				"startLoad"
+			],
+			[
+				"enable",
+				"enableWorker"
+			],
+			[
+				"V",
+				"Player.V2"
+			],
+			[
+				"fullsc",
+				"fullscreenElement"
+			],
+			[
+				"El",
+				"ReactElement"
+			],
+			[
+				"ao",
+				"apple-mobile-web-app-status-bar-style"
+			],
+			[
+				"apple",
+				"apple-mobile-web-app-title"
+			],
+			[
+				"toHaveBeen",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"toHaveBee",
+				"toHaveBeenCalledTimes"
+			],
+			[
+				"toHaveBeenC",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"mockRej",
+				"mockRejectedValueOnce"
+			],
+			[
+				"Captu",
+				"captureException"
+			],
+			[
+				"Cloud",
+				"CloudError"
+			],
+			[
+				"e",
+				"useErrorHandler"
+			],
+			[
+				"CloudPla",
+				"CloudPlayerSDKImplementation"
+			],
+			[
+				"c",
+				"captureException"
+			],
+			[
+				"Capt",
+				"captureException"
+			],
+			[
+				"toHaveB",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"CloudPl",
+				"CloudPlayerSDKImplementation"
+			],
+			[
+				"Play",
+				"PlayerState"
+			],
+			[
+				"s",
+				"seconds"
+			],
+			[
+				"cloud",
+				"CloudPlayerSDK"
+			],
+			[
+				"CloudP",
+				"CloudPlayerSDK"
+			],
+			[
+				"run",
+				"runOnlyPendingTimers"
+			],
+			[
+				"useGetS",
+				"useGetSetState"
+			],
+			[
+				"C",
+				"CACHE_FIRST"
+			],
+			[
+				"mini",
+				"minifyWhitespace"
+			],
+			[
+				"name",
+				"globalName"
+			],
+			[
+				"Mock",
+				"MockedProvider"
+			],
+			[
+				"test",
+				"@testing-library/react"
+			],
+			[
+				"blueprin",
+				"blueprintjs"
+			],
+			[
+				"Audit",
+				"AuditCase.Type.Transaction.Shared"
+			],
+			[
+				"mockResolv",
+				"mockResolvedValueOnce"
+			],
+			[
+				"mockRe",
+				"mockReset"
+			],
+			[
+				"GET_",
+				"GET_LOCATIONS_AND_FAVORITES"
+			],
+			[
+				"list_lo",
+				"list_locations_by_account/1"
+			],
+			[
+				"OnFetch",
+				"OnFetchLocations"
+			],
+			[
+				"read",
+				"readFragment"
+			],
+			[
+				"mill",
+				"milliseconds"
+			],
+			[
+				"tohavebeenCal",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"Player",
+				"PlayerStateControls"
+			],
+			[
+				"PlayerState",
+				"PlayerStateControls"
+			],
+			[
+				"setState",
+				"setPlayerState"
+			],
+			[
+				"moudl",
+				"modules"
+			],
+			[
+				"Spinn",
+				"SpinnerSize"
+			],
+			[
+				"propE",
+				"propSatisfies"
+			],
+			[
+				"Route",
+				"RouteProps"
+			],
+			[
+				"Mutation",
+				"MutationFunctionOptions"
+			],
+			[
+				"TimePick",
+				"TimePickerPrecision"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"Time",
+				"ITimePickerProps"
+			],
+			[
+				"v",
+				"isValid"
+			],
+			[
+				"testing-",
+				"@testing-library/react"
+			],
+			[
+				"rende",
+				"renderWithRouter"
+			],
+			[
+				"loction",
+				"locationGuid"
+			],
+			[
+				"T",
+				"Video.Navbar.TitleLocation"
+			],
+			[
+				"reset",
+				"resetAllMocks"
+			],
+			[
+				"toCo",
+				"toHaveTextContent"
+			],
+			[
+				"advance",
+				"advanceTimersToNextTimer"
+			],
+			[
+				"userEv",
+				"UserEvent"
+			],
+			[
+				"mocks",
+				"mockRestore"
+			],
+			[
+				"findByT",
+				"findByTestId"
+			],
+			[
+				"inn",
+				"innerText"
+			],
+			[
+				"toHabe",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"SavedCl",
+				"SavedClipsButton"
+			],
+			[
+				"use",
+				"useRealTimers"
+			],
+			[
+				"useQuery",
+				"useLazyQuery"
+			],
+			[
+				"H",
+				"History"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "guadalajara.sublime-project",
+			"settings":
+			{
+				"buffer_size": 400,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\nexcl"
+					},
+					"BgAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"textEdit\":{\"newText\":\"\\\"folder_exclude_patterns\\\": [$1]\",\"range\":{\"end\":{\"character\":4,\"line\":4},\"start\":{\"character\":3,\"line\":4}}},\"insertText\":\"\\\"folder_exclude_patterns\\\": [$1]\",\"label\":\"folder_exclude_patterns\",\"filterText\":\"\\\"folder_exclude_patterns\\\"\",\"insertTextFormat\":2,\"documentation\":{\"value\":\"[Patterns](http://www.sublimetext.com/docs/file_patterns.html) of folders to exclude from the folder. This is added to the global setting of the same name. This is checked after `\\\"folder_include_patterns\\\"`.\",\"kind\":\"markdown\"},\"kind\":10},\"session_name\":\"LSP-json\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							5,
+							11,
+							3
+						],
+						"trigger": "\"folder_exclude_patterns\""
+					},
+					"BQAAACoAAAAAAAAAKgAAAAAAAAABAAAAbCkAAAAAAAAAKQAAAAAAAAABAAAAYygAAAAAAAAAKAAAAAAAAAABAAAAeCcAAAAAAAAAJwAAAAAAAAABAAAAZScAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\n\t$0\n"
+					},
+					"AQAAAEMAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAEgAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAEgAAAAAAAAASAAAAAAAAAABAAAAJ0gAAAAAAAAASAAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAEgAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "**/node_module"
+					},
+					"DgAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "s/*"
+					},
+					"AwAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAGAAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "storage"
+					},
+					"BwAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "/*"
+					},
+					"AgAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAGwAAAAAAAAAbQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbgAAAAAAAAByAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAHIAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "log/*"
+					},
+					"BQAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "**."
+					},
+					"BgAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/cwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"left_delete",
+					null,
+					"AgAAAHgAAAAAAAAAeAAAAAAAAAABAAAALmQAAAAAAAAAZAAAAAAAAAABAAAALg",
+					"AQAAAAAAAAACAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/eQAAAAAAAAB5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AgAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/dwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAH8AAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAIUAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIcAAAAAAAAAhwAAAAAAAAABAAAAL4YAAAAAAAAAhgAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "**/tmp?/"
+					},
+					"CAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					2,
+					"left_delete",
+					null,
+					"AgAAAI0AAAAAAAAAjQAAAAAAAAABAAAAL4wAAAAAAAAAjAAAAAAAAAABAAAAPw",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "/*"
+					},
+					"AgAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 706,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAACUBAAAAAAAAOgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Elixir/Elixir - elixir $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Elixir/Elixir - mix test $file.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Elixir/Elixir - elixir $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Elixir/Elixir.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Elixir/Elixir - elixir $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Phoenix.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Elixir/Elixir - elixir $file.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Elixir/Elixir - elixir $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test $file.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/Elixir - mix test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/elixir.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/elixir.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"form",
+				"JsPrettier: Format Code"
+			],
+			[
+				"fo",
+				"LSP: Format File"
+			],
+			[
+				"f",
+				"JsPrettier: Format Code"
+			],
+			[
+				"forma",
+				"JsPrettier: Format Code"
+			],
+			[
+				"select ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"set ui",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"for",
+				"LSP: Format File"
+			],
+			[
+				"setsyntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"rest",
+				"LSP: Restart Server"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"res",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"re",
+				"LSP: Restart Server"
+			],
+			[
+				"fom",
+				"LSP: Format File"
+			],
+			[
+				"Lsp rest",
+				"LSP: Restart Server"
+			],
+			[
+				"Lsp reset",
+				"Preferences: LSP-elm Settings"
+			],
+			[
+				"setsyntax typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"REST",
+				"LSP: Restart Server"
+			],
+			[
+				"r",
+				"LSP: Restart Server"
+			],
+			[
+				"set syntax tsx",
+				"Set Syntax: TSX"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"restar",
+				"LSP: Restart Server"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax make",
+				"Set Syntax: Makefile Plus"
+			],
+			[
+				"save",
+				"Debugger: Force Save"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"save fil",
+				"File: Save All"
+			],
+			[
+				"convert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv",
+				"Convert Case: Lower Case"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"types",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"icons",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"enabl",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"ui sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"colorsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"act",
+				"ayu: Activate theme"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"open termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"sk",
+				"Snippet: ELM - Skeleton simple"
+			],
+			[
+				"elm",
+				"Snippet: ELM - Skeleton simple"
+			],
+			[
+				"tern",
+				"Terminal: Open"
+			],
+			[
+				"open repos",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"reposit",
+				"Package Control: Add Repository"
+			],
+			[
+				"repository",
+				"Package Control: Add Repository"
+			],
+			[
+				"lsp enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enable lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"subilmme merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"open terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"ui sel",
+				"UI: Select Theme"
+			],
+			[
+				"colorscheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"build",
+				"Build With: Elixir - mix test $file"
+			],
+			[
+				"settings",
+				"Preferences: LSP-elixir Settings"
+			],
+			[
+				"packages",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"reinstall",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"elixir",
+				"Preferences: LSP-elixir Settings"
+			],
+			[
+				"lsp en",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"prefe",
+				"Preferences: LSP-elixir Settings"
+			],
+			[
+				"react",
+				"ReactIDE: Switch between component and test"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"View P",
+				"View Package File"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 244.0,
+		"history":
+		[
+			"settings",
+			"sublime.packages_path()",
+			"sublime.packages_path",
+			"dir(sublime)",
+			"sublime.settings",
+			"sublime",
+			"settings"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sicksid/projects/guadalajara",
+		"/Users/sicksid/projects/guadalajara/app",
+		"/Users/sicksid/projects/guadalajara/config"
+	],
+	"file_history":
+	[
+		"/Users/sicksid/projects/Guadalajara/docker-compose.yml",
+		"/Users/sicksid/projects/Guadalajara/config/application.rb",
+		"/Users/sicksid/projects/guadalajara/guadalajara.sublime-project",
+		"/Users/sicksid/projects/Guadalajara/guadalajara.sublime-project",
+		"/Users/sicksid/projects/Guadalajara/package-lock.json",
+		"/Users/sicksid/projects/Guadalajara/README.md",
+		"/Users/sicksid/projects/Guadalajara/config/database.yml",
+		"/Users/sicksid/projects/Guadalajara/config/environments/production.rb",
+		"/Users/sicksid/projects/Guadalajara/node_modules/.package-lock.json",
+		"/Users/sicksid/projects/Guadalajara/package.json",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Layouts/Layouts.Main.FixedWindow.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Layouts/fixedWindowCSS.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/index.ts",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/VideoControls/DateTime/DateTime.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/store.ts",
+		"/Users/sicksid/savi/mono/web/modules/types/src/Video.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/containers/Player/Player.Composer.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/logger.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/history.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/index.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/App.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/List/List.Locations/List.Locations.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/containers/Player/Player.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/state.ts",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Timeline/Timeline.Track/Timeline.Track.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Timeline/Timeline.Track/state.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/contexts/Chronometer/Consumer.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/List/List.Locations/__tests__/List.Locations.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/contexts/Chronometer/Provider.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/contexts/Chronometer/state.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/contexts/Chronometer/index.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/__tests__/Video.Controls.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/__tests__/state.test.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/contexts/__tests__/Provider.test.tsx",
+		"/Users/sicksid/savi/mono/web/modules/types/src/Timeline.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/__tests__/isMobile.test.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/__tests__/Video.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/test/helpers.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/containers/Player/__tests__/Player.Composer.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/__tests__/Video.Controls.PlayerState.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/Video.Controls.GridSize.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/contexts/__tests__/state.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.SavedClips/Video.SavedClips.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.QueuedClips/Video.QueuedClips.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.Navbar/Video.Navbar.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.Navbar/Video.Navbar.TitleLocation/Video.Navbar.TitleLocation.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.Navbar/Video.Navbar.TitleFavorite/Video.Navbar.TitleFavorite.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/__tests__/Video.state.test.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/index.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/Video.Controls.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/Video.Controls.Timescale.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/Video.Controls.PlayerState.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/Video.Controls.Pagination.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/List/List.Favorites.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.Shared.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/state/Actions.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/state/reducer.ts",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VXG/Playback/Player.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/package.json",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VMS/index.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/scripts/build.sh",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/index.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/ApolloClient.ts",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VXG/Playback/use-records.ts",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VXG/__tests__/Player.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/containers/Player/__tests__/Player.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/AuditCase/AuditCase.Expanded/AuditCase.Expanded.VideoPlayer.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/AuditCase/AuditCase.Expanded/__tests__/AuditCase.Expanded.VideoPlayer.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Form/Form.Clip/Form.Clip.Cameras/__tests__/Form.Clip.Camera.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/AuditCase/AuditCase.Expanded/__tests__/AuditCase.Expanded.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Form/Form.Clip/__tests__/Form.Clip.test.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VMS/__tests__/Player.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Form/Form.Clip/Form.Clip.Cameras/__tests__/Form.Clip.Cameras.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.SavedClips/Video.SavedClips.Detail/__tests__/Video.SavedClips.Detail.test.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VMS/Stream.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Form/Form.Clip/Form.Clip.Cameras/Form.Clip.Cameras.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/index.ts",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VMS/Clip.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Form/Form.Clip/Form.Clip.tsx",
+		"/Users/sicksid/savi/mono/web/package.json",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VXG/index.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.SavedClips/Video.SavedClips.Detail/Video.SavedClips.Detail.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/index.ts",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/__mocks__/@sentry/browser.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/features/query.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VXG/Playback/index.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/query.VideoSources.graphql",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/state/index.ts",
+		"/Users/sicksid/savi/mono/services/apps/api/lib/api_web/schema/enums/enabled_features.ex",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Header/Header.Global/Header.Global.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/features/index.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/List/__tests__/List.Favorites.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/features/query.EnabledFeatures.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/containers/Routes/Routes.Authenticated.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/features/__tests__/query.test.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/features/__tests__/EnabledFeatures.includes.test.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/lib/features/__tests__/includes.test.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Header/Header.Global/__tests__/HeaderGlobal.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Video/Video.Controls/Video.Controls.TimeModulation.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/containers/Routes/__tests__/Routes.Authenticated.test.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/query.EnabledFeatures/query.EnabledFeatures.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Form/Form.tsx",
+		"/Users/sicksid/savi/mono/web/modules/types/src/Schema.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/query.VideoSources.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Card/Card.Favorite.tsx",
+		"/Users/sicksid/savi/mono/web/modules/types/package.json",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Timeline/Timeline.Ruler/Timeline.Ruler.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Timeline/Timeline.tsx",
+		"/Users/sicksid/savi/mono/web/modules/types/src/index.ts",
+		"/Users/sicksid/savi/mono/services/apps/api/test/savi_api_web/schemas/queries/current_auth_test.exs",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/utils/testing.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Form/Form.Favorite/Form.Favorite.Update/Form.Favorite.Update.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Mobile/Mobile.Timeline/Mobile.Timeline.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Player/VXG/Live.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/webpack.config.dev.js",
+		"/Users/sicksid/savi/mono/web/savi-app/webpack.config.prod.js",
+		"/Users/sicksid/savi/mono/web/savi-app/webpack.config.js",
+		"/Users/sicksid/savi/mono/web/savi-app/src/containers/Routes/Routes.Unauthenticated.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Icon/index.ts",
+		"/Users/sicksid/savi/mono/web/savi-app/jest.config.js",
+		"/Users/sicksid/savi/mono/web/modules/ui/jest.config.js",
+		"/Users/sicksid/savi/mono/web/modules/ui/test/setup.jest.ts",
+		"/Users/sicksid/savi/mono/.github/workflows/ci_licensed.yml",
+		"/Users/sicksid/savi/mono/.licensed.yml",
+		"/Users/sicksid/savi/mono/web/savi-app/src/components/Form/Form.Favorite/Form.Favorite.Create/__tests__/mutation.CreateFavorite.test.tsx",
+		"/Users/sicksid/savi/mono/web/modules/ui/src/Autocomplete/Autocomplete.tsx",
+		"/Users/sicksid/savi/mono/web/savi-app/src/pages/Video/Video.SavedClips/Video.SavedClips.List/Video.SavedClips.List.tsx"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 141.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"seed",
+			"seed!",
+			"manifest",
+			"Guadalajara"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"guadalajara"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "guadalajara.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/sicksid/projects/guadalajara/guadalajara.sublime-project",
+							"show_definitions": false,
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///Users/sicksid/projects/guadalajara/config/routes.rb",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gemfile",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///Users/sicksid/projects/guadalajara/Gemfile",
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 34.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 136.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 0.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 138.0
+	},
+	"output.YAMLMacros":
+	{
+		"height": 109.0
+	},
+	"output.diagnostics":
+	{
+		"height": 148.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.elm_format":
+	{
+		"height": 267.0
+	},
+	"output.exec":
+	{
+		"height": 308.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 433.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.mix_format":
+	{
+		"height": 338.0
+	},
+	"output.project_environment_log":
+	{
+		"height": 100.0
+	},
+	"output.references":
+	{
+		"height": 640.0
+	},
+	"pinned_build_system": "Packages/Elixir/Elixir - mix test $file.sublime-build",
+	"project": "guadalajara.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config/application.rb",
+				"config/application.rb"
+			],
+			[
+				"FixedWindow",
+				"web/savi-app/src/components/Layouts/Layouts.Main.FixedWindow.tsx"
+			],
+			[
+				"VideoControls/Date",
+				"web/modules/ui/src/VideoControls/DateTime/DateTime.tsx"
+			],
+			[
+				"lib/index",
+				"web/savi-app/src/lib/index.ts"
+			],
+			[
+				"store.",
+				"web/savi-app/src/store.ts"
+			],
+			[
+				"logger",
+				"web/savi-app/src/lib/logger.ts"
+			],
+			[
+				"use-re",
+				"web/modules/ui/src/Player/VXG/Playback/use-records.ts"
+			],
+			[
+				"src/index.ts",
+				"web/modules/ui/src/index.ts"
+			],
+			[
+				"src/pages/Video/__tests__/state.test.ts",
+				"web/savi-app/src/pages/Video/__tests__/state.test.ts"
+			],
+			[
+				"state",
+				"web/savi-app/src/pages/Video/state.ts"
+			],
+			[
+				"Video.tsx",
+				"web/savi-app/src/pages/Video/Video.tsx"
+			],
+			[
+				"Video.",
+				"web/modules/types/src/Video.ts"
+			],
+			[
+				"helpers",
+				"web/savi-app/test/helpers.tsx"
+			],
+			[
+				"src/containers/Player/__tests__/Player.Composer.test.tsx",
+				"web/savi-app/src/containers/Player/__tests__/Player.Composer.test.tsx"
+			],
+			[
+				"state.ts",
+				"web/savi-app/src/pages/Video/state.ts"
+			],
+			[
+				"Player.",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"Player.compo",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"Player.tsx",
+				"web/savi-app/src/containers/Player/Player.tsx"
+			],
+			[
+				"List.Locations",
+				"web/savi-app/src/components/List/List.Locations/List.Locations.tsx"
+			],
+			[
+				"hist",
+				"web/savi-app/src/lib/history.ts"
+			],
+			[
+				"src/store.ts",
+				"web/savi-app/src/store.ts"
+			],
+			[
+				"Cosnumer",
+				"web/savi-app/src/contexts/Chronometer/Consumer.tsx"
+			],
+			[
+				"Consumer",
+				"web/savi-app/src/contexts/Chronometer/Consumer.tsx"
+			],
+			[
+				"src/components/Video/Video.Controls/__tests__/Video.Controls.test.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/__tests__/Video.Controls.test.tsx"
+			],
+			[
+				"src/contexts/__tests__/Provider.test.tsx",
+				"web/savi-app/src/contexts/__tests__/Provider.test.tsx"
+			],
+			[
+				"chronome",
+				"web/savi-app/src/contexts/Chronometer/state.ts"
+			],
+			[
+				"isMobile",
+				"web/savi-app/src/lib/__tests__/isMobile.test.ts"
+			],
+			[
+				"web/savi-app/src/components/Video/Video.Controls/Video.Controls.GridSize.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/Video.Controls.GridSize.tsx"
+			],
+			[
+				"src/contexts/__tests__/state.test.tsx",
+				"web/savi-app/src/contexts/__tests__/state.test.tsx"
+			],
+			[
+				"src/components/Video/Video.Controls/__tests__/Video.Controls.PlayerState.test.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/__tests__/Video.Controls.PlayerState.test.tsx"
+			],
+			[
+				"test/",
+				"web/savi-app/test/helpers.tsx"
+			],
+			[
+				"src/components/List/List.Locations/__tests__/List.Locations.test.tsx",
+				"web/savi-app/src/components/List/List.Locations/__tests__/List.Locations.test.tsx"
+			],
+			[
+				"video",
+				"web/savi-app/src/pages/Video/Video.tsx"
+			],
+			[
+				"src/pages/Video/__tests__/Video.state.test.ts",
+				"web/savi-app/src/pages/Video/__tests__/Video.state.test.ts"
+			],
+			[
+				"src/pages/Video/Video.Navbar/Video.Navbar.tsx",
+				"web/savi-app/src/pages/Video/Video.Navbar/Video.Navbar.tsx"
+			],
+			[
+				"src/pages/Video/Video.Navbar/Video.Navbar.TitleLocation/Video.Navbar.TitleLocation.tsx",
+				"web/savi-app/src/pages/Video/Video.Navbar/Video.Navbar.TitleLocation/Video.Navbar.TitleLocation.tsx"
+			],
+			[
+				"src/pages/Video/Video.Navbar/Video.Navbar.TitleFavorite/Video.Navbar.TitleFavorite.tsx",
+				"web/savi-app/src/pages/Video/Video.Navbar/Video.Navbar.TitleFavorite/Video.Navbar.TitleFavorite.tsx"
+			],
+			[
+				"src/pages/Video/Video.SavedClips/Video.SavedClips.tsx",
+				"web/savi-app/src/pages/Video/Video.SavedClips/Video.SavedClips.tsx"
+			],
+			[
+				"src/pages/Video/Video.QueuedClips/Video.QueuedClips.tsx",
+				"web/savi-app/src/pages/Video/Video.QueuedClips/Video.QueuedClips.tsx"
+			],
+			[
+				"src/pages/Video/index.ts",
+				"web/savi-app/src/pages/Video/index.ts"
+			],
+			[
+				"src/containers/Player/Player.Composer.tsx",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"src/components/Video/Video.Controls/Video.Controls.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/Video.Controls.tsx"
+			],
+			[
+				"src/components/Video/Video.Controls/Video.Controls.Timescale.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/Video.Controls.Timescale.tsx"
+			],
+			[
+				"src/components/Video/Video.Controls/Video.Controls.PlayerState.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/Video.Controls.PlayerState.tsx"
+			],
+			[
+				"src/components/Video/Video.Controls/Video.Controls.Pagination.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/Video.Controls.Pagination.tsx"
+			],
+			[
+				"src/components/Video/Video.Controls/Video.Controls.GridSize.tsx",
+				"web/savi-app/src/components/Video/Video.Controls/Video.Controls.GridSize.tsx"
+			],
+			[
+				"Player.comp",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"src/Player/VXG/Playback/use-records.ts",
+				"web/modules/ui/src/Player/VXG/Playback/use-records.ts"
+			],
+			[
+				"src/ApolloClient.ts",
+				"web/savi-app/src/ApolloClient.ts"
+			],
+			[
+				"vxg/player",
+				"web/modules/ui/src/Player/VXG/__tests__/Player.test.tsx"
+			],
+			[
+				"src/containers/Player/__tests__/Player.test.tsx",
+				"web/savi-app/src/containers/Player/__tests__/Player.test.tsx"
+			],
+			[
+				"src/components/AuditCase/AuditCase.Expanded/__tests__/AuditCase.Expanded.VideoPlayer.test.tsx",
+				"web/savi-app/src/components/AuditCase/AuditCase.Expanded/__tests__/AuditCase.Expanded.VideoPlayer.test.tsx"
+			],
+			[
+				"Player.test",
+				"web/modules/ui/src/Player/VXG/__tests__/Player.test.tsx"
+			],
+			[
+				"build.",
+				"web/savi-app/scripts/build.sh"
+			],
+			[
+				"src/components/Form/Form.Clip/__tests__/Form.Clip.test.tsx",
+				"web/savi-app/src/components/Form/Form.Clip/__tests__/Form.Clip.test.tsx"
+			],
+			[
+				"src/components/AuditCase/AuditCase.Expanded/__tests__/AuditCase.Expanded.test.tsx",
+				"web/savi-app/src/components/AuditCase/AuditCase.Expanded/__tests__/AuditCase.Expanded.test.tsx"
+			],
+			[
+				"src/components/Form/Form.Clip/Form.Clip.Cameras/__tests__/Form.Clip.Cameras.test.tsx",
+				"web/savi-app/src/components/Form/Form.Clip/Form.Clip.Cameras/__tests__/Form.Clip.Cameras.test.tsx"
+			],
+			[
+				"src/pages/Video/Video.SavedClips/Video.SavedClips.Detail/__tests__/Video.SavedClips.Detail.test.tsx",
+				"web/savi-app/src/pages/Video/Video.SavedClips/Video.SavedClips.Detail/__tests__/Video.SavedClips.Detail.test.tsx"
+			],
+			[
+				"src/components/Form/Form.Clip/Form.Clip.Cameras/__tests__/Form.Clip.Camera.test.tsx",
+				"web/savi-app/src/components/Form/Form.Clip/Form.Clip.Cameras/__tests__/Form.Clip.Camera.test.tsx"
+			],
+			[
+				"src/Player/VMS/__tests__/Player.test.tsx",
+				"web/modules/ui/src/Player/VMS/__tests__/Player.test.tsx"
+			],
+			[
+				"reduce",
+				"web/savi-app/src/pages/Video/state/reducer.ts"
+			],
+			[
+				"package",
+				"web/package.json"
+			],
+			[
+				"CLip.tsx",
+				"web/savi-app/src/components/Form/Form.Clip/Form.Clip.tsx"
+			],
+			[
+				"Clip.tsx",
+				"web/modules/ui/src/Player/VMS/Clip.tsx"
+			],
+			[
+				"reducer",
+				"web/savi-app/src/pages/Video/state/reducer.ts"
+			],
+			[
+				"VIdeo.tsx",
+				"web/savi-app/src/pages/Video/Video.tsx"
+			],
+			[
+				"src/components/Form/Form.Clip/Form.Clip.Cameras/Form.Clip.Cameras.tsx",
+				"web/savi-app/src/components/Form/Form.Clip/Form.Clip.Cameras/Form.Clip.Cameras.tsx"
+			],
+			[
+				"src/containers/Player/Player.tsx",
+				"web/savi-app/src/containers/Player/Player.tsx"
+			],
+			[
+				"features.tsx",
+				"web/savi-app/src/lib/features/query.tsx"
+			],
+			[
+				"features",
+				"services/apps/api/lib/api_web/schema/enums/enabled_features.ex"
+			],
+			[
+				"sentry/",
+				"web/modules/ui/src/__mocks__/@sentry/browser.ts"
+			],
+			[
+				"Player/VXG/index",
+				"web/modules/ui/src/Player/VXG/index.tsx"
+			],
+			[
+				"state/",
+				"web/savi-app/src/pages/Video/state/index.ts"
+			],
+			[
+				"src/components/List/__tests__/List.Favorites.test.tsx",
+				"web/savi-app/src/components/List/__tests__/List.Favorites.test.tsx"
+			],
+			[
+				"src/components/Header/Header.Global/Header.Global.tsx",
+				"web/savi-app/src/components/Header/Header.Global/Header.Global.tsx"
+			],
+			[
+				"RoutesA",
+				"web/savi-app/src/containers/Routes/Routes.Authenticated.tsx"
+			],
+			[
+				"Video",
+				"web/savi-app/src/pages/Video/Video.tsx"
+			],
+			[
+				"form",
+				"web/modules/ui/src/Form/Form.tsx"
+			],
+			[
+				"Player/index",
+				"web/modules/ui/src/Player/index.ts"
+			],
+			[
+				"Card.F",
+				"web/savi-app/src/components/Card/Card.Favorite.tsx"
+			],
+			[
+				"card.favo",
+				"web/savi-app/src/components/Card/Card.Favorite.tsx"
+			],
+			[
+				"List.Favorite.tsx",
+				"web/savi-app/src/components/List/List.Favorites.tsx"
+			],
+			[
+				"ruler",
+				"web/modules/ui/src/Timeline/Timeline.Ruler/Timeline.Ruler.tsx"
+			],
+			[
+				"reducer.",
+				"web/savi-app/src/pages/Video/state/reducer.ts"
+			],
+			[
+				"types/pack",
+				"web/modules/types/package.json"
+			],
+			[
+				"Types/inde",
+				"web/modules/types/src/index.ts"
+			],
+			[
+				"Player/VXG",
+				"web/modules/ui/src/Player/VXG/index.tsx"
+			],
+			[
+				"Form.Favorite.Up",
+				"web/savi-app/src/components/Form/Form.Favorite/Form.Favorite.Update/Form.Favorite.Update.tsx"
+			],
+			[
+				"testing",
+				"web/modules/ui/src/utils/testing.tsx"
+			],
+			[
+				"utils/",
+				"web/modules/ui/src/utils/testing.tsx"
+			],
+			[
+				"List.Fa",
+				"web/savi-app/src/components/List/List.Favorites.tsx"
+			],
+			[
+				"live.s",
+				"web/modules/ui/src/Player/VXG/Live.tsx"
+			],
+			[
+				"build.sh",
+				"web/savi-app/scripts/build.sh"
+			],
+			[
+				"router",
+				"web/savi-app/src/containers/Routes/Routes.Unauthenticated.tsx"
+			],
+			[
+				"licensed",
+				"mono/.github/workflows/ci_licensed.yml"
+			],
+			[
+				"jest.config",
+				"web/modules/ui/jest.config.js"
+			],
+			[
+				"je",
+				"web/savi-app/jest.config.js"
+			],
+			[
+				"prod.js",
+				"web/savi-app/webpack.config.prod.js"
+			],
+			[
+				"package.json",
+				"web/package.json"
+			],
+			[
+				"src/Player/VXG/__tests__/Player.test.tsx",
+				"web/modules/ui/src/Player/VXG/__tests__/Player.test.tsx"
+			],
+			[
+				"placehol",
+				"web/modules/ui/src/Player/Player.Placeholder.tsx"
+			],
+			[
+				"dev.j",
+				"web/savi-app/webpack.config.dev.js"
+			],
+			[
+				"dev.",
+				"web/savi-app/webpack.config.dev.js"
+			],
+			[
+				"Composer.",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"Layouts.Main.FixedWindow",
+				"web/savi-app/src/components/Layouts/Layouts.Main.FixedWindow.tsx"
+			],
+			[
+				"dev.js",
+				"web/savi-app/webpack.config.dev.js"
+			],
+			[
+				"src/pages/VideoClip/VideoClip.Create/VideoClip.Create.tsx",
+				"web/savi-app/src/pages/VideoClip/VideoClip.Create/VideoClip.Create.tsx"
+			],
+			[
+				"Player.ts",
+				"web/savi-app/src/containers/Player/Player.tsx"
+			],
+			[
+				"enabled",
+				"services/apps/api/lib/api_web/schema/enums/enabled_features.ex"
+			],
+			[
+				"VXG/pla",
+				"web/modules/ui/src/Player/VXG/Player.tsx"
+			],
+			[
+				"VXG/Pl",
+				"web/modules/ui/src/Player/VXG/Player.tsx"
+			],
+			[
+				"src/Player/VXG/__tests__/Playback.test.tsx",
+				"web/modules/ui/src/Player/VXG/__tests__/Playback.test.tsx"
+			],
+			[
+				"Player.Com",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"Composer",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"seeds.ex",
+				"services/apps/media_capture/priv/repo/seeds.exs"
+			],
+			[
+				"id/seeds",
+				"services/apps/id/priv/repo/seeds.exs"
+			],
+			[
+				"live",
+				"web/modules/ui/src/Player/VXG/Live.tsx"
+			],
+			[
+				"index.html",
+				"web/savi-app/public/index.html"
+			],
+			[
+				"COmposer.",
+				"web/savi-app/src/containers/Player/Player.Composer.tsx"
+			],
+			[
+				"varia",
+				"web/modules/ui/variables.css"
+			],
+			[
+				"Playback/",
+				"web/modules/ui/src/Player/VXG/Playback/Player.tsx"
+			],
+			[
+				"src/components/AuditCase/AuditCase.Expanded/AuditCase.Expanded.VideoPlayer.tsx",
+				"web/savi-app/src/components/AuditCase/AuditCase.Expanded/AuditCase.Expanded.VideoPlayer.tsx"
+			],
+			[
+				"test/setupPlayer.ts",
+				"web/savi-app/test/setupPlayer.ts"
+			],
+			[
+				"types/",
+				"web/modules/types/Schema.d.ts"
+			],
+			[
+				"App.",
+				"web/savi-app/src/App.tsx"
+			],
+			[
+				"APoll",
+				"web/savi-app/src/ApolloClient.ts"
+			],
+			[
+				"src/Player/VMS/__tests__/Clip.test.tsx",
+				"web/modules/ui/src/Player/VMS/__tests__/Clip.test.tsx"
+			],
+			[
+				"hls.j",
+				"web/savi-app/src/__mocks__/hls.js.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/savi/mono/mono.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 253.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 520.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
