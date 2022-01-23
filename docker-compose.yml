@@ -1,9 +1,5 @@
-version: '3'
+version: "3"
 services:
-  mail:
-    image: mailhog/mailhog
-    ports:
-      - 8025:8025
   app:
     image: decidim/decidim
     volumes:
@@ -19,17 +15,32 @@ services:
       - 3000:3000
     links:
       - pg
+      - smtp
     command: bundle exec puma
+    depends_on:
+      smtp:
+        condition: service_started
+      pg:
+        condition: service_healthy
+
   pg:
     image: postgres
     volumes:
       - pg-data:/var/lib/postgresql/data
     environment:
       - POSTGRES_HOST_AUTH_METHOD=trust
+    healthcheck:
+      test: pg_isready -U postgres
+      interval: 10s
+      timeout: 3s
+      retries: 3
 
   pgadmin:
     image: dpage/pgadmin4
     restart: always
+    depends_on:
+      pg:
+        condition: service_healthy
     volumes:
       - pgadmin-data:/var/lib/pgadmin
     environment:
@@ -37,8 +48,61 @@ services:
       - PGADMIN_DEFAULT_PASSWORD=changeme
     ports:
       - 5050:80
+    links:
+      - pg
+
+  smtp:
+    image: mailhog/mailhog
+    command: ["-smtp-bind-addr", "0.0.0.0:25"]
+    user: root
+    expose:
+      - 25
+      - 8025
+    ports:
+      - 8025:8025
+    environment:
+      - MH_MONGO_URI=mongo:27017
+      - MH_STORAGE=mongodb
+    healthcheck:
+      test: echo | telnet 127.0.0.1 25
+    depends_on:
+      mongo:
+        condition: service_healthy
+    links:
+      - mongo
+
+  mongo:
+    image: mongo
+    restart: always
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongo mongo:27017/test --quiet
+      interval: 10s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+    volumes:
+      - mongo-data:/data/db
+    ports:
+      - 27017:27017
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    depends_on:
+      mongo:
+        condition: service_healthy
+    ports:
+      - 8081:8081
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=root
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=changeme
+      - ME_CONFIG_MONGODB_URL=mongodb://mongo:27017
+    links:
+      - mongo
+
 volumes:
   node_modules: {}
   bundle: {}
   pg-data: {}
+  mongo-data: {}
   pgadmin-data: {}
