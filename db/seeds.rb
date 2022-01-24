@@ -22,12 +22,12 @@ organization = Decidim::Organization.create!(
     from_email: smtp_email,
     from_label: smtp_label,
     username: ENV['SMTP_USERNAME'] || '',
-    password: ENV['SMTP_PASSWORD'] || ''
+    password: ENV['SMTP_PASSWORD'] || '',
     address: ENV['SMTP_ADDRESS'] || 'localhost',
     port: ENV['SMTP_PORT'] || '25'
   },
-  host: 'localhost',
-  external_domain_whitelist: ['decidim.org', 'github.com'],
+  host: 'guadalajara.fly.dev',
+  external_domain_whitelist: ['guadalajara.fly.dev', 'decidim.org', 'github.com'],
   description: Decidim::Faker::Localized.wrapped('<p>', '</p>') do
     Decidim::Faker::Localized.sentence(word_count: 15)
   end,
