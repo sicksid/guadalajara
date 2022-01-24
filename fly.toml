@@ -7,11 +7,12 @@ kill_timeout = 5
 processes = []
 
 [deploy]
-  release_command = "rails db:migrate"
+  release_command = "rails db:setup"
 
 [env]
   LOG_LEVEL = "warning"
   RAILS_ENV = "production"
+  DISABLE_DATABASE_ENVIRONMENT_CHECK = 1
 
 [experimental]
   allowed_public_ports = []
@@ -19,7 +20,7 @@ processes = []
 
 [[services]]
   http_checks = []
-  internal_port = 8080
+  internal_port = 3000
   processes = ["app"]
   protocol = "tcp"
   script_checks = []
