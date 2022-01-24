@@ -9,6 +9,7 @@ ENV NODE_ENV production
 ENV PORT 3000
 ENV SECRET_KEY_BASE=no_need_for_such_secrecy
 ENV RAILS_SERVE_STATIC_FILES=true
+ENV BUNDLE_WITHOUT=development:test
 
 RUN apt-get install -y git imagemagick wget \
 	&& apt-get clean
@@ -32,7 +33,7 @@ COPY . .
 
 # WORKDIR /code/decidim_app-design
 RUN yarn install
-RUN BUNDLE_WITHOUT="development:test" bundle install
+RUN bundle install
 RUN bundle exec rails assets:precompile
 
 ENTRYPOINT []
