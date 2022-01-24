@@ -1,5 +1,5 @@
 # FROM decidim/decidim:latest
-FROM ruby:2.7.5-slim
+FROM ruby:2.7.5
 LABEL maintainer="info@codegram.com"
 
 ENV LANG C.UTF-8
@@ -9,7 +9,7 @@ ENV PORT 3000
 ENV SECRET_KEY_BASE=no_need_for_such_secrecy
 ENV RAILS_SERVE_STATIC_FILES=true
 
-RUN apt-get update -y && apt-get install -y git imagemagick wget \
+RUN apt-get install -y git imagemagick wget \
 	&& apt-get clean
 
 RUN curl -sL https://deb.nodesource.com/setup_16.x | bash - \
