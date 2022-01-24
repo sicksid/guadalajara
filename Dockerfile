@@ -36,4 +36,4 @@ RUN bundle exec rails assets:precompile
 
 ENTRYPOINT []
 
-CMD bundle exec rails s -b 0.0.0.0 -p $PORT
+CMD bundle exec puma -C config/puma.rb

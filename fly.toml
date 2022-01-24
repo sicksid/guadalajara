@@ -1,12 +1,17 @@
-# fly.toml file generated for muddy-firefly-1335 on 2022-01-22T13:26:27-06:00
+# fly.toml file generated for guadalajara on 2022-01-23T22:06:20-06:00
 
-app = "muddy-firefly-1335"
+app = "guadalajara"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
 
+[deploy]
+  release_command = "rails db:migrate"
+
 [env]
+  LOG_LEVEL = "warning"
+  RAILS_ENV = "production"
 
 [experimental]
   allowed_public_ports = []
