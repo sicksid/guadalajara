@@ -2,8 +2,10 @@ version: "3"
 services:
   app:
     image: decidim/decidim
+    build:
+      dockerfile: Dockerfile
     volumes:
-      - .:/app
+      - .:/code
       - bundle:/usr/local/bundle
       - node_modules:/app/node_modules
     environment:
