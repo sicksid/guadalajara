@@ -17,17 +17,14 @@ smtp_email = 'localhost'
 
 organization = Decidim::Organization.create!(
   name: 'Guadalajara',
-  # twitter_handler: Faker::Hipster.word,
-  # facebook_handler: Faker::Hipster.word,
-  # instagram_handler: Faker::Hipster.word,
-  # youtube_handler: Faker::Hipster.word,
-  # github_handler: Faker::Hipster.word,
   smtp_settings: {
     from: "#{smtp_label} <#{smtp_email}>",
     from_email: smtp_email,
     from_label: smtp_label,
-    address: 'localhost',
-    port: '25'
+    username: ENV['SMTP_USERNAME'] || '',
+    password: ENV['SMTP_PASSWORD'] || ''
+    address: ENV['SMTP_ADDRESS'] || 'localhost',
+    port: ENV['SMTP_PORT'] || '25'
   },
   host: 'localhost',
   external_domain_whitelist: ['decidim.org', 'github.com'],
@@ -65,3 +62,6 @@ admin.update!(
 )
 
 FactoryBot.create(:static_page, organization: organization, slug: 'terms-and-conditions')
+
+user = Decidim::System::Admin.new(email: 'abdulachik@gmail.com', password: 'changeme', password_confirmation: 'changeme')
+user.save!

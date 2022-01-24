@@ -5,6 +5,7 @@ LABEL maintainer="info@codegram.com"
 ENV LANG C.UTF-8
 ENV LC_ALL C.UTF-8
 ENV RAILS_ENV production
+ENV NODE_ENV production
 ENV PORT 3000
 ENV SECRET_KEY_BASE=no_need_for_such_secrecy
 ENV RAILS_SERVE_STATIC_FILES=true
@@ -30,7 +31,7 @@ COPY . .
 # RUN sed -i "s/Decidim::Dev.version/\"$(cat .decidim-version)\"/g" decidim-dev/decidim-dev.gemspec
 
 # WORKDIR /code/decidim_app-design
-
+RUN yarn install
 RUN bundle install
 RUN bundle exec rails assets:precompile
 
