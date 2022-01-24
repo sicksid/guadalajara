@@ -32,7 +32,7 @@ COPY . .
 
 # WORKDIR /code/decidim_app-design
 RUN yarn install
-RUN bundle install
+RUN BUNDLE_WITHOUT="development:test" bundle install
 RUN bundle exec rails assets:precompile
 
 ENTRYPOINT []
